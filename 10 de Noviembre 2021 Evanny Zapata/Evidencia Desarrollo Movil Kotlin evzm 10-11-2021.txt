@@ -1,0 +1,6 @@
+Evidencia “DÍA 3 SEMANA 17” del 10/11:
+Demostrar lo aprendido en “Lección 01 - Kotlin”.
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429583/mod_resource/content/5/Leccio%CC%81n%2001%20-%20Kotlin.pdf
+
+
+Se adjunta zip del proyecto
