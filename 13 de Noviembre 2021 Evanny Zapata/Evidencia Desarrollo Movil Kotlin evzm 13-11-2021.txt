@@ -1,0 +1,6 @@
+Evidencia “DÍA 6 SEMANA 17” del 13/11:
+Demostrar lo aprendido en “Lección 03 - Kotlin Colecciones”.
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429587/mod_resource/content/7/Leccio%CC%81n%2003%20-%20Kotlin%20Colecciones.pdf
+
+Se adjunta zip con el proyecto
+

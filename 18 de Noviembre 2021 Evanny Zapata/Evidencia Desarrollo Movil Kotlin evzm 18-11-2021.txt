@@ -1,0 +1,7 @@
+Evidencia “DÍA 4 SEMANA 18” del 18/11:
+Demostrar lo aprendido en “Lección 06- Persistencia de datos 02” y “Lección 07- Persistencia 02”.
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429592/mod_resource/content/10/Leccio%CC%81n%2006-%20Persistencia%20de%20datos%2002.pdf
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429595/mod_resource/content/11/Leccio%CC%81n%2007-%20Persistencia%2002.pdf
+
+
+Se adjunta zip del proyecto

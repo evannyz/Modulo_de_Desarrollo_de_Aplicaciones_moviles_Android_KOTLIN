@@ -1,0 +1,7 @@
+Evidencia “DÍA 3 SEMANA 18” del 17/11:
+“Ejercicio (Shared Preferences)” 
+página 32 en adelante de “Lección 05 - Persistencia de datos 01.pdf”.
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429590/mod_resource/content/9/Leccio%CC%81n%2005%20-%20Persistencia%20de%20datos%2001.pdf
+
+
+Se adjunta zip del proyecto

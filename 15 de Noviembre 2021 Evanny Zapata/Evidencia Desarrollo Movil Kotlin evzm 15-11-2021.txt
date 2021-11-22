@@ -1,0 +1,6 @@
+Evidencia “DÍA 1 SEMANA 18” del 15/11:
+“Ejercicios” página 29 de “Lección 03 - Kotlin Colecciones”. 
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429587/mod_resource/content/7/Leccio%CC%81n%2003%20-%20Kotlin%20Colecciones.pdf
+
+
+Se adjunta zip del proyecto

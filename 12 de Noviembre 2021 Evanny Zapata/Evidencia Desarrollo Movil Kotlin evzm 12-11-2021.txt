@@ -1,0 +1,5 @@
+Evidencia “DÍA 5 SEMANA 17” del 12/11:
+“Ejercicio 01” página 31 de “Lección 02 - Kotlin 02”
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429585/mod_resource/content/6/Leccio%CC%81n%2002%20-%20Kotlin%2002.pdf
+
+Se adjunta zip del proyecto

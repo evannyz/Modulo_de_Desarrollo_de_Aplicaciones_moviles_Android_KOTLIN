@@ -1,0 +1,5 @@
+Evidencia “DÍA 2 SEMANA 18” del 16/11:
+Avance de “Ejercicios.” página 16 de “Lección 04- Kotlin y Android”. 
+https://educacioncontinua-otec.aiep.cl/pluginfile.php/429588/mod_resource/content/8/Leccio%CC%81n%2004-%20Kotlin%20y%20Android.pdf
+
+Se adjunta zip del proyecto
