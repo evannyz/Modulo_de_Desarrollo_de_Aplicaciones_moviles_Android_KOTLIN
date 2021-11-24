@@ -1,0 +1,4 @@
+Evidencia “DÍA 1 SEMANA 19” del 22/11:
+Avance del ejercicio anterior del 20/11.
+
+Se adjunta zip del proyecto, se crea la carpeta presentation y se implementa 3 partes de mvvm
