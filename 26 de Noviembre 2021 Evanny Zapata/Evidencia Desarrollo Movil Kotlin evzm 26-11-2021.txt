@@ -1,0 +1,8 @@
+Evidencia “DÍA 5 SEMANA 19” del 26/11:
+Crear una aplicación simple de Login de email y contraseña,
+con botones para ingresar y registrarse respectivamente, 
+en fragmento con MVVM y ROOM; además, un segundo fragmento para registro con email,
+contraseña y nombre completo, 
+con botones para registrarse y volver al primer fragmento respectivamente.
+
+Se adjunta zip del proyecto.
