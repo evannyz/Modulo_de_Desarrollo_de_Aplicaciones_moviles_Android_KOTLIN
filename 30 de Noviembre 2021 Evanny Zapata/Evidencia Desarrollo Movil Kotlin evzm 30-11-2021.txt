@@ -1,0 +1,5 @@
+Evidencia “DÍA 2 SEMANA 20” del 30/11:
+Hacer que la aplicación del ejercicio anterior del 29/11 muestre los datos obtenidos en un RecyclerView.
+
+
+Se adjunta zip del proyecto.

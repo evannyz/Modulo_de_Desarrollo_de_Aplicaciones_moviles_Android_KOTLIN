@@ -1,0 +1,5 @@
+Evidencia “DÍA 1 SEMANA 20” del 29/11:
+Avance de aplicación que obtenga los datos de https://rickandmortyapi.com/api/character 
+a través de Retrofit y Gson.
+
+Se adjunta zip del proyecto.

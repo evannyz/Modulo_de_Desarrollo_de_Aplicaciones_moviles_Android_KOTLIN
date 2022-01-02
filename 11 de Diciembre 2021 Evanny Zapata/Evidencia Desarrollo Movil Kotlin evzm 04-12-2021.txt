@@ -1,0 +1,5 @@
+Evidencia Semanal Semana 21 del 11/12:
+Se sube aplicación rick and morty que implementa todos los aprendizajes de la semana,
+aplicación con vistas de: splash, prelogin, server error, no internet error y validación de parametros. 
+
+Se adjunta zip del proyecto.

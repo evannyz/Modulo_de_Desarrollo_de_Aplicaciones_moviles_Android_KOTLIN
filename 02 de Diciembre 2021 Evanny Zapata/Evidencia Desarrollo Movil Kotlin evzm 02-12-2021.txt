@@ -1,0 +1,8 @@
+Evidencia “DÍA 4 SEMANA 20” del 02/12:
+Hacer que la aplicación del ejercicio anterior del 01/12 cambie, 
+a través de un Bottom Navigation Bar, entre un fragmento que muestra los datos obtenidos 
+de https://rickandmortyapi.com/api/character y un segundo fragmento que muestra los obtenidos 
+de https://rickandmortyapi.com/api/location
+
+
+Se adjunta zip del proyecto.

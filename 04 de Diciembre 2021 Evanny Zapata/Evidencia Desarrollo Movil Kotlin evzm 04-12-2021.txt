@@ -1,0 +1,9 @@
+Evidencia Semanal Semana 20 del 04/12:
+Se sube aplicación rick and morty que implementa todos los aprendizajes de la semana
+Aplicación que cambia de vistas a través de un Bottom Navigation Bar, entre un fragmento que muestra los datos obtenidos 
+de https://rickandmortyapi.com/api/character y un segundo fragmento que muestra los obtenidos 
+de https://rickandmortyapi.com/api/location, se implementa recyclerview y retrofit en ambos y en mi caso la creación
+de la rama feature/location-Evannyz en github 
+
+
+Se adjunta zip del proyecto.

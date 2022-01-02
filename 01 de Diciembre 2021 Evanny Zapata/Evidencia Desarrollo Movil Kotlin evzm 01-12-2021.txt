@@ -1,0 +1,6 @@
+Evidencia “DÍA 3 SEMANA 20” del 01/12:
+Crear una Rama Git del proyecto del ejercicio anterior del 30/11 
+y hacer que muestre los resultados obtenidos de 
+https://rickandmortyapi.com/api/location
+
+Se adjunta zip del proyecto.
